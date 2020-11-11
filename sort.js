@@ -7,6 +7,6 @@ var sortNumber = function (number) {
    });
 };
 
-var number = {19, 15, 81, 2, 24, 21};
+var number = {19, 16, 81, 2, 24, 21};
 sortNumber(number);
 console.log(number);
